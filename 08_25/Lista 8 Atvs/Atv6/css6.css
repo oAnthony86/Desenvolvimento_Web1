@@ -1,0 +1,11 @@
+a :visited{
+    color: chartreuse;
+    background: black; 
+}
+a :hover{
+    color:orange;
+    background: grey;
+}
+a{
+    color: blue;
+}

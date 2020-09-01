@@ -1,0 +1,35 @@
+div{
+    width: 250px;
+    height: 250px;
+}
+
+.um{
+    background-color: orange;
+    right: 0vw;
+    top: 0vh;
+    position: absolute;
+}
+.dois{
+    background-color: pink;
+    top: 0vh;
+    left: 0vw;
+    position: absolute;
+}
+.tres{
+    background-color: red;
+    right: 0vw;
+    bottom: 0vh;
+    position: absolute;
+}
+.quatro{
+    background-color: seagreen;
+    left: 0vw;
+    bottom: 0vh;
+    position: absolute;
+}
+.cinco{
+    background-color: blue;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
