@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.anthony{
+    height: 250px;
+    width: 175px;
+    align: left;
+}
+#menu{
+    background-color:  chartreuse;
+    display: table;
+    width: 100%;
+}
+#menu ul {
+    list-style: none;
+    text-align: center;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    font: 13px verdana, arial, sans-serif;
+    color: black;
+    background: url('verde.png') no-repeat;
+    background-size: 100% 100%;
+    text-decoration: none;
+    float: left;
+    padding: 5px 10px;
+    margin-left: 1px;
+}
+
+#menu ul li a:hover {
+    color: black;
+    background: url('verde.png') no-repeat;
+    background-size: 100% 80%;
+}
+.textin{
+    vertical-align: top;
+    font-size: 18px;
+    color: chartreuse;
+    margin: 50px;
+    text-indent: 1.5em;
+}
+body{
+    background-color: black;
+}
+.icon{
+    color: 
+}
+footer{
+    font-size: 18px;
+    color: chartreuse;
+    left: 0vw;
+    bottom: 0vh;
+    position: absolute;
+}
+h1{
+    color: chartreuse;
+}
+ul{
+    color: chartreuse;
+}
+h3{
+    color: chartreuse;
+}
+th{
+    color: chartreuse;
+}
+caption{
+    color: chartreuse;
+    margin-left: -120px;
+    font-size: 22px;
+    font-family: Helvetica, Arial;
+}
